@@ -44,4 +44,5 @@ Ao final do projeto, o usuário pode inserir informações de um novo paciente, 
 ![image](https://user-images.githubusercontent.com/80500801/234926062-ececd94a-b8f4-4208-9352-12df638f668c.png)
 ![image](https://user-images.githubusercontent.com/80500801/234926095-6e18f4f0-570d-4d95-8a08-5d1a571a9d8e.png)
 
+Link para o Colab: https://colab.research.google.com/drive/1wxUf-tZKAx0L2Fik0nx5Nrzg7U-7Jcw8?usp=sharing
 
