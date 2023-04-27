@@ -11,7 +11,7 @@ As bibliotecas necessárias para este projeto são:
 - numpy
 - matplotlib
 - sklearn
-- Conjunto de dados
+### Conjunto de dados
 O conjunto de dados utilizado é o arquivo saude.csv, que contém informações sobre pacientes e seus respectivos riscos de ataque cardíaco. As colunas do conjunto de dados são:
 
 - idade
@@ -38,3 +38,10 @@ Os resultados da acurácia e precisão média para cada modelo são apresentados
 
 ### Predição para novo paciente
 Ao final do projeto, o usuário pode inserir informações de um novo paciente, e o modelo de Floresta Aleatória é usado para prever a chance de o paciente sofrer um ataque cardíaco. A resposta é apresentada como "Muita chance de sofrer ataque cardíaco" ou "Pouca chance de sofrer ataque cardíaco".
+
+
+![image](https://user-images.githubusercontent.com/80500801/234926025-8cf6d174-ab21-4a14-8534-d8e8ea86702b.png)
+![image](https://user-images.githubusercontent.com/80500801/234926062-ececd94a-b8f4-4208-9352-12df638f668c.png)
+![image](https://user-images.githubusercontent.com/80500801/234926095-6e18f4f0-570d-4d95-8a08-5d1a571a9d8e.png)
+
+
