@@ -1,6 +1,6 @@
 # ia_atvs
 
-# Documentação do projeto - Predição de Ataque Cardíaco
+# Predição de Ataque Cardíaco
 ### Descrição
 Este projeto tem como objetivo prever a ocorrência de ataques cardíacos em pacientes com base em informações clínicas. Para isso, utiliza-se um conjunto de dados contendo informações demográficas e médicas dos pacientes e aplicam-se modelos de aprendizado de máquina para classificar os pacientes como tendo alta ou baixa chance de sofrer um ataque cardíaco.
 
